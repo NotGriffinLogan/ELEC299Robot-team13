@@ -164,3 +164,20 @@ void turn(boolean dir, int Speed, boolean aggressive) {
   }
 
 }
+--------------------intercounter----------------------------
+void intersectTest(boolean dir, int Speed, boolean aggressive) {
+  if (linecounter == 1){
+    forward(currentSpeed);
+  }
+  if (linecounter == 2){
+    turn(dir,spd,aggr)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
